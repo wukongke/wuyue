@@ -3,7 +3,7 @@
 
 > 技术栈：golang + echo + mgo + vue
 
-> 预览地址： [http://47.94.11.23/wuyue](http://47.94.11.23/wuyue)
+> 预览地址： [http://59.110.212.239/wuyue](http://59.110.212.239/wuyue)
 
 > api地址：[https://github.com/wukongke/wuyue](https://github.com/wukongke/wuyue)
 
