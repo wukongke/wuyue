@@ -5,11 +5,10 @@
 
 > 预览地址： [http://47.94.11.23/wuyue](http://47.94.11.23/wuyue)
 
-> api地址：[https://code.aliyun.com/wukc/wuyue/](https://code.aliyun.com/wukc/wuyue/)
+> api地址：[https://github.com/wukongke/wuyue](https://github.com/wukongke/wuyue)
 
-> 爬虫地址：[https://code.aliyun.com/wukc/wuspider](https://code.aliyun.com/wukc/wuspider)
+> 爬虫地址：[https://github.com/wukongke/wuspider](https://github.com/wukongke/wuspider)
 
-> 前端说明: clone vue-reader, 修改了接口和数据处理： [https://github.com/tgxhx/vue-reader](https://github.com/tgxhx/vue-reader)
 
 ### 项目运行
 
