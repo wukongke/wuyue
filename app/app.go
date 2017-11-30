@@ -13,7 +13,6 @@ func main() {
 	app := echo.New()
 	routes.Router(app)
 
-	app.Static("/static", "public")
 	app.Static("/wuyue/public", "public")
 
 	app.File("/*", "public/index.html")
